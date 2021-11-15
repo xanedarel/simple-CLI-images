@@ -39,7 +39,7 @@ viu "$varsrcd/$varrand0" -w 20
 #end functions
 
 #code
-echo "Welcome to Find-Displayer version 0.0.4"
+echo "Welcome to Simple CLI Images version 0.0.4"
 echo "The selected folder for display is set to $varsrcd/"
 echo "Press [ENTER] to continue, or type in the new folder path starting from root, without the last end /"
 echo "example : </home/$USER> instead of </home/$USER/>"
