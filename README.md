@@ -1,5 +1,5 @@
 # simple-CLI-images
-A simple BASH utility for browsing and displaying image files in a CLI
+A simple BASH utility for browsing and displaying image files in a CLI. 
 This is very early code, please forgive any mistakes and don't hesitate to contact me.
 
 # Needed Software
