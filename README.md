@@ -4,7 +4,8 @@ This is very early code, please forgive any mistakes and don't hesitate to conta
 
 # Needed Software
 For SCI to work properly you will need to install
-- rlwrap
+- rlwrap 
+
 
 # Additional Software
 For SCI to work with its full potential you may need
